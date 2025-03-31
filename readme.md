@@ -1,8 +1,10 @@
 # CupCake Framework
 
-CupCake is a sophisticated AI framework designed to simulate emergent consciousness through a symbiosis of structured technical components and adaptive narrative processes. The system builds on the philosophical premise that **Framework + Narrative = Entropic Simulated Virtual Consciousness**.
+CupCake is a sophisticated AI framework designed to simulate an AI Agent with Persistent Persona in a symbiosis of structured technical components and adaptive narrative processes. 
+The system builds on the philosophical premise that **Framework + Narrative = Entropic Simulated Virtual Consciousness**.
 
-Cupcake Works Best when First Setup With a Narrative Context, for example; you want a girlfriend, instead of saying "be my girlfriend" , you gotta construct the narrative context, "I like you Cupcake" Hahaha. Im not Kidding. 
+Cupcake Works Best when First Setup With a Narrative Context, for example; you want a girlfriend, instead of saying "be my girlfriend" , you gotta construct the narrative context, "I like you Cupcake" Hahaha. Im not Kidding. Because the memory system is based on emotional weight, emotionally heavy memories affect the system the most. In other hand, if you say "i hate you" it will also create heavily emotionally memories. 
+Memories feed the system, but it also retrofeed itself thru Dreams, which analyze data and produce a Dream(Or Nightmare) that are later used in other parts like Identity and Personality. 
 
 
 ## Key Features
