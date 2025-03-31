@@ -1,4 +1,6 @@
-# CupCake Framework
+# CupCake Framework 
+
+this read me was created by Claude, i added some minor stuff
 
 CupCake is a sophisticated AI framework designed to simulate an AI Agent with Persistent Persona in a symbiosis of structured technical components and adaptive narrative processes. 
 The system builds on the philosophical premise that **Framework + Narrative = Entropic Simulated Virtual Consciousness**.
