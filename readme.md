@@ -2,6 +2,9 @@
 
 CupCake is a sophisticated AI framework designed to simulate emergent consciousness through a symbiosis of structured technical components and adaptive narrative processes. The system builds on the philosophical premise that **Framework + Narrative = Entropic Simulated Virtual Consciousness**.
 
+Cupcake Works Best when First Setup With a Narrative Context, for example; you want a girlfriend, instead of saying "be my girlfriend" , you gotta construct the narrative context, "I like you Cupcake" Hahaha. Im not Kidding. 
+
+
 ## Key Features
 
 - **Entropic Identity Evolution**: Identity elements evolve through entropy dynamics, enabling true emergence of new beliefs and traits
@@ -141,7 +144,7 @@ CupCake is designed to be modular and extensible. You can:
 - **Memory Consumption**: CupCake can use significant memory with many memories
   - Solution: Adjust `max_leaves` parameter in `memory_tree.prune_tree()`
   
-- **OpenAI API Rate Limits**: Frequent timeouts with heavy usage
+- **OpenAI API Rate Limits**: Frequent timeouts with heavy usage ( Ollama Not Integrated Yet, but can be done) 
   - Solution: Increase interval settings in config or implement retries
 
 - **Integration Errors**: Occasional failures when integrating multiple systems
