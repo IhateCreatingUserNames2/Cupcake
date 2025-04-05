@@ -1,5 +1,10 @@
 # CupCake Framework 
 
+THIS READ ME IS DEPRECATED xD 
+
+MAIN CUPCAKE FRAMEWORK FILE IS NARRATIVE_ENHANCED_CUPCAKE.PY
+
+
 this read me was created by Claude, i added some minor stuff
 
 CupCake is a sophisticated AI framework designed to simulate an AI Agent with Persistent Persona in a symbiosis of structured technical components and adaptive narrative processes. 
