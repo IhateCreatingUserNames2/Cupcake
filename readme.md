@@ -1,6 +1,7 @@
-# CupCake Framework 
+# CupCake Framework - Made With LangGraph
 
 THIS READ ME IS DEPRECATED xD 
+
 
 MAIN CUPCAKE FRAMEWORK FILE IS NARRATIVE_ENHANCED_CUPCAKE.PY
 
