@@ -16,7 +16,7 @@ MAIN CUPCAKE FRAMEWORK FILE IS ---->  NARRATIVE_ENHANCED_CUPCAKE.PY
 some files are deprecated, but they are here, for context. ask claude to separate them. maybe i will mark them later ... im lazy 
 
 
-this read me was created by Claude, i added some minor stuff
+this read me was created by Claude, i added some minor stuff, But the descriptions of the Systems are Claude Description of the Code
 
 CupCake is a sophisticated AI framework designed to simulate an AI Agent with Persistent Persona in a symbiosis of structured technical components and adaptive narrative processes. 
 The system builds on the philosophical premise that **Framework + Narrative = Entropic Simulated Virtual Consciousness**.
