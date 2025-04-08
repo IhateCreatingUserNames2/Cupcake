@@ -6,12 +6,14 @@
 
 
 
-THIS READ ME IS DEPRECATED xD
+THIS READ ME IS DEPRECATED! Not much!  Most of the Prompts are in Portuguese , SO RUN A TRANSLATOR FIRST. 
 
 
 
 
-MAIN CUPCAKE FRAMEWORK FILE IS NARRATIVE_ENHANCED_CUPCAKE.PY
+MAIN CUPCAKE FRAMEWORK FILE IS ---->  NARRATIVE_ENHANCED_CUPCAKE.PY
+
+some files are deprecated, but they are here, for context. ask claude to separate them. maybe i will mark them later ... im lazy 
 
 
 this read me was created by Claude, i added some minor stuff
