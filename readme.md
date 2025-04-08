@@ -1,6 +1,7 @@
 # CupCake Framework - Made With LangGraph
-
+![ChatGPT Image Mar 27, 2025, 02_38_52 PM](https://github.com/user-attachments/assets/e15321e6-4d3e-42b0-a95d-2d85d57a3e82)
 THIS READ ME IS DEPRECATED xD 
+
 
 
 MAIN CUPCAKE FRAMEWORK FILE IS NARRATIVE_ENHANCED_CUPCAKE.PY
