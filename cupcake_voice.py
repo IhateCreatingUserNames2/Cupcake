@@ -2,7 +2,7 @@
 import os
 import requests
 
-ELEVEN_API_KEY = os.getenv("ELEVEN_API_KEY", "sk_0c1ffc8c5e846d895c9ef74d7e57870862defeda713793c6")
+ELEVEN_API_KEY = os.getenv("ELEVEN_API_KEY", "forgot to remove lol ")
 VOICE_ID = "EXAVITQu4vr4xnSDxMaL"  # pode trocar pela voz que você escolher
 
 
