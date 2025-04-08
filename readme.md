@@ -4,7 +4,7 @@
 
  ![cupcake2](https://github.com/user-attachments/assets/a6b67864-ec19-4abc-b1fb-911d403ad9da)
 
-
+This is a Prototype. Meant for Study. The Code Works But there are major flaws in the logic that need to be addressed, the way i built it was towards Module first then processing, the main flaw here is in the processing, the node_generate_reply function does not have many of the Systems incorporated in them yet, mostly because im unsure of how to do it. maybe you can. 
 
 THIS READ ME IS DEPRECATED! Not much!  Most of the Prompts are in Portuguese , SO RUN A TRANSLATOR FIRST. 
 
